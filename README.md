@@ -64,6 +64,4 @@ I'm a Computer Engineer with experience building web applications, automation fr
 
 ### 📫 Connect With Me
 
-* LinkedIn: https://www.linkedin.com/in/abdulrahman-ali2k/
-* Portfolio: [My Portfolio](https://abody2k.github.io/portfolio/)
 * Email: Abdulrahman.7.2k@gmail.com
