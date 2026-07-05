@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Abdurrahman Ali
+# Hi there 👋, I'm Abdurrahman Alhamdani
 
 ### Computer Engineer | Full-Stack Developer | QA Automation Engineer | Game Developer
 
